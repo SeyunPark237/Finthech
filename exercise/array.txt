@@ -1,0 +1,10 @@
+var car1 = "Saab";
+var car2 = "Volvo";
+var car3 = "BMW";
+
+var cars = ["Saab", "Volvo", "BMW"];
+
+console.log(cars);
+console.log(cars[0]);  //1번째 데이터는 인덱스번호0
+console.log(cars[1]); //2번째 데이터는 인덱스
+console.log(cars[2]); //3번째 데이터
