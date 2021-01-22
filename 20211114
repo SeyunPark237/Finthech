@@ -1,3 +1,6 @@
-#주피터 테마적용
+@주피터 테마적용
 pip install --upgrade jupyterthemes
 jt -t grade3 -T -N -f bitstream -fs 10 -nf opensans -nfs 11 -tf robotosans -tfs 10 -cellw 1140 -lineh 150
+
+@억지로 push
+git push -u origin _master
